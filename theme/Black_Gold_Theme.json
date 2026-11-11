@@ -1,0 +1,58 @@
+{
+  "name": "Black Gold Silver",
+  "dataColors": ["#D4AF37", "#C0C0C0", "#B8860B", "#8C8C8C", "#F3E5AB", "#6E6E6E", "#E6C75A", "#A9A9A9"],
+  "background": "#000000",
+  "foreground": "#C0C0C0",
+  "tableAccent": "#D4AF37",
+  "good": "#D4AF37",
+  "neutral": "#C0C0C0",
+  "bad": "#8C8C8C",
+  "maximum": "#D4AF37",
+  "center": "#C0C0C0",
+  "minimum": "#4A4A4A",
+  "textClasses": {
+    "title": {"fontSize": 14, "fontFace": "Segoe UI Semibold", "color": "#D4AF37"},
+    "label": {"fontSize": 11, "fontFace": "Segoe UI", "color": "#C0C0C0"},
+    "callout": {"fontSize": 32, "fontFace": "Segoe UI Semibold", "color": "#D4AF37"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#141414"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#D4AF37"}}, "radius": 6}],
+        "title": [{"fontColor": {"solid": {"color": "#D4AF37"}}, "fontSize": 13}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#C0C0C0"}}, "titleColor": {"solid": {"color": "#C0C0C0"}}}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#C0C0C0"}}, "titleColor": {"solid": {"color": "#C0C0C0"}}}],
+        "labels": [{"color": {"solid": {"color": "#F3E5AB"}}}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#000000"}}, "transparency": 0}]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{"color": {"solid": {"color": "#D4AF37"}}}],
+        "categoryLabels": [{"color": {"solid": {"color": "#C0C0C0"}}}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{"fontColor": {"solid": {"color": "#D4AF37"}}}],
+        "items": [{"fontColor": {"solid": {"color": "#C0C0C0"}}}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [{"fontColor": {"solid": {"color": "#000000"}}, "backColor": {"solid": {"color": "#D4AF37"}}}],
+        "values": [{
+          "fontColorPrimary": {"solid": {"color": "#C0C0C0"}},
+          "backColorPrimary": {"solid": {"color": "#141414"}},
+          "fontColorSecondary": {"solid": {"color": "#C0C0C0"}},
+          "backColorSecondary": {"solid": {"color": "#1F1F1F"}}
+        }]
+      }
+    }
+  }
+}
