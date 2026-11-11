@@ -10,9 +10,6 @@ As part of standardizing and showcasing my Data Analytics portfolio, I am thrill
 📂 Technology Stack:
 Power BI | Power Query | Data Modeling | GitHub Standardized Structure
 
-🔗 Check out the full GitHub Repository with documentation & downloadable project files:
-[حطي رابط الريبو بتاعك هنا]
-
 I'd love to hear your thoughts and feedback! 💡
 
-#DataAnalytics #PowerBI #DataVisualization #Portfolio #EV #GitHub #LinkedIn #BusinessIntelligence
+#DataAnalytics #PowerBI #DataVisualization #Portfolio #EV #GitHub #BusinessIntelligence
